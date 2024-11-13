@@ -1,0 +1,91 @@
+{
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "/img/Basic-Calculator.png",
+      "title": "Basic Calculator",
+      "description": "This repository contains a simple calculator web application built using HTML, CSS, and JavaScript. The application provides a user-friendly interface for performing basic arithmetic operations, including addition, subtraction, multiplication, and division.",
+      "link": "https://github.com/iampraveenanthony/Basic-Calculator",
+      "view": "https://iampraveenanthony.github.io/Basic-Calculator/"
+    },
+    {
+      "id": "2",
+      "src": "/img/Amazon.jpg",
+      "title": "Amazon Clone Website",
+      "description": "The website is a clone of Amazon, designed to showcase a shopping platform with a variety of products. It features product listings, a shopping cart, and a user-friendly interface. Users can browse electronics and other categories, add items to their cart, and proceed to checkout. The design aims to replicate Amazon's core functionality and layout, providing a familiar shopping experience for users.",
+      "link": "https://github.com/iampraveenanthony/Amazon-Clone",
+      "view": "https://iampraveenanthony.github.io/Amazon-Clone/"
+    },
+    {
+      "id": "3",
+      "src": "/img/Cisco.jpg",
+      "title": "Cisco Clone Website",
+      "description": "The website is a clone of Cisco's platform, showcasing their network, software, and cybersecurity solutions. It highlights products like AI-powered Cisco XDR and Full-Stack Observability for IT automation. There are also sections for industry-specific solutions, customer stories, and insights into upcoming technologies such as AI and IoT. The site promotes Cisco’s involvement in digital transformation, security, and real-time IT support.",
+      "link": "https://github.com/iampraveenanthony/Cisco-Clone",
+      "view": "https://iampraveenanthony.github.io/Cisco-Clone/"
+    }
+  ],
+
+  "portfolio2": [
+    {
+      "id": "1",
+      "src": "/img/Bus-Booking.png",
+      "title": "Bus Booking System",
+      "description": "The program is a bus booking system that allows users to register, log in, view available buses, and book tickets. Users provide their personal details for registration and login. The system displays available bus routes and details, allowing users to select a bus and proceed with booking by confirming the date of the journey and ticket details.",
+      "link": "https://github.com/iampraveenanthony/Bus_Booking_System",
+      "view": "https://github.com/iampraveenanthony/Bus_Booking_System"
+    },
+    {
+      "id": "2",
+      "src": "/img/banksystem.png",
+      "title": "Banking System",
+      "description": "This Python program simulates a simple banking system that allows users to perform basic transactions. Users can show their current balance, deposit money, withdraw money, or exit the program. The program includes input validation for negative amounts and insufficient balance during withdrawals.",
+      "link": "https://github.com/iampraveenanthony/Banking_System",
+      "view": "https://github.com/iampraveenanthony/Banking_System"
+    },
+    {
+      "id": "3",
+      "src": "../img/cdb.png",
+      "title": "College Database",
+      "description": "The college database consists of tables for student details, college bus details, and student mark statements, all managed using MySQL. It utilizes SQL features such as grouping and joins to efficiently retrieve and aggregate data across these related tables. This structure supports comprehensive queries for generating reports.",
+      "link": "https://github.com/iampraveenanthony/College_DataBase",
+      "view": "https://github.com/iampraveenanthony/College_DataBase"
+    }
+  ],
+
+  "skills": [
+    {
+      "id": "1",
+      "src": "/img/frontend.png",
+      "title": "Front-End",
+      "description": "✓ HTML",
+      "description2": "✓ CSS",
+      "description3": "✓ JavaScript",
+      "description4": "✓ Node JS"
+    },
+    {
+      "id": "2",
+      "src": "/img/backend.png",
+      "title": "Back-End",
+      "description": "✓ Python",
+      "description2": "✓ MySQL"
+    },
+    {
+      "id": "3",
+      "src": "/img/framework.png",
+      "title": "Framework",
+      "description": "✓ React Js",
+      "description2": "✓ Bootstrap",
+      "description3": "✓ Django"
+    },
+    {
+      "id": "4",
+      "src": "/img/design.png",
+      "title": "Design",
+      "description": "✓ FIGMA",
+      "description2": "✓ CANVA",
+      "description3": "✓ Illustrator",
+      "description4": "✓ Photoshop"
+    }
+  ]
+}
