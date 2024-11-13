@@ -2,7 +2,7 @@
   "portfolio": [
     {
       "id": "1",
-      "src": "/img/Basic-Calculator.png",
+      "src": "../../public/img/Bus-Booking.png",
       "title": "Basic Calculator",
       "description": "This repository contains a simple calculator web application built using HTML, CSS, and JavaScript. The application provides a user-friendly interface for performing basic arithmetic operations, including addition, subtraction, multiplication, and division.",
       "link": "https://github.com/iampraveenanthony/Basic-Calculator",
