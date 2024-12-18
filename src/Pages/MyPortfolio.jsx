@@ -19,7 +19,7 @@ export default function MyPortfolio() {
           <button
             className="btn btn-github"
             onClick={() =>
-              (window.location.href = "https://github.com/iampraveenanthony")
+              (window.location.href = "https://github.com/yourspraveeninfo")
             }
           >
             <img src={giticon} alt="gitlogo" />
@@ -32,7 +32,7 @@ export default function MyPortfolio() {
           className="portfolio--section--card"
           onClick={() =>
             (window.location.href =
-              "https://iampraveenanthony.github.io/Basic-Calculator/")
+              "https://yourspraveeninfo.github.io/Basic-Calculator/")
           }
         >
           <div className="portfolio--section--img">
@@ -50,7 +50,7 @@ export default function MyPortfolio() {
               </p>
             </div>
             <p className="text-sm portfolio--link">
-              <a href="https://github.com/iampraveenanthony/Basic-Calculator">
+              <a href="https://github.com/yourspraveeninfo/Basic-Calculator">
                 View in GitHub
               </a>
             </p>
@@ -60,7 +60,7 @@ export default function MyPortfolio() {
           className="portfolio--section--card"
           onClick={() =>
             (window.location.href =
-              "https://iampraveenanthony.github.io/Amazon-Clone/")
+              "https://yourspraveeninfo.github.io/Amazon-Clone/")
           }
         >
           <div className="portfolio--section--img">
@@ -74,7 +74,7 @@ export default function MyPortfolio() {
               </p>
             </div>
             <p className="text-sm portfolio--link">
-              <a href="https://github.com/iampraveenanthony/Amazon-Clone">
+              <a href="https://github.com/yourspraveeninfo/Amazon-Clone">
                 View in GitHub
               </a>
             </p>
@@ -84,7 +84,7 @@ export default function MyPortfolio() {
           className="portfolio--section--card"
           onClick={() =>
             (window.location.href =
-              "https://iampraveenanthony.github.io/Cisco-Clone/")
+              "https://yourspraveeninfo.github.io/Cisco-Clone/")
           }
         >
           <div className="portfolio--section--img">
@@ -98,7 +98,7 @@ export default function MyPortfolio() {
               </p>
             </div>
             <p className="text-sm portfolio--link">
-              <a href="https://github.com/iampraveenanthony/Cisco-Clone">
+              <a href="https://github.com/yourspraveeninfo/Cisco-Clone">
                 View in GitHub
               </a>
             </p>
@@ -110,7 +110,7 @@ export default function MyPortfolio() {
           className="portfolio--section--card"
           onClick={() =>
             (window.location.href =
-              "https://github.com/iampraveenanthony/Bus_Booking_System")
+              "https://github.com/yourspraveeninfo/Bus_Booking_System")
           }
         >
           <div className="portfolio--section--img">
@@ -124,7 +124,7 @@ export default function MyPortfolio() {
               </p>
             </div>
             <p className="text-sm portfolio--link">
-              <a href="https://github.com/iampraveenanthony/Bus_Booking_System">
+              <a href="https://github.com/yourspraveeninfo/Bus_Booking_System">
                 View in GitHub
               </a>
             </p>
@@ -134,7 +134,7 @@ export default function MyPortfolio() {
           className="portfolio--section--card"
           onClick={() =>
             (window.location.href =
-              "https://github.com/iampraveenanthony/Banking_System")
+              "https://github.com/yourspraveeninfo/Banking_System")
           }
         >
           <div className="portfolio--section--img">
@@ -148,7 +148,7 @@ export default function MyPortfolio() {
               </p>
             </div>
             <p className="text-sm portfolio--link">
-              <a href="https://github.com/iampraveenanthony/Banking_System">
+              <a href="https://github.com/yourspraveeninfo/Banking_System">
                 View in GitHub
               </a>
             </p>
@@ -158,7 +158,7 @@ export default function MyPortfolio() {
           className="portfolio--section--card"
           onClick={() =>
             (window.location.href =
-              "https://github.com/iampraveenanthony/College_DataBase")
+              "https://github.com/yourspraveeninfo/College_DataBase")
           }
         >
           <div className="portfolio--section--img">
@@ -172,7 +172,7 @@ export default function MyPortfolio() {
               </p>
             </div>
             <p className="text-sm portfolio--link">
-              <a href="https://github.com/iampraveenanthony/College_DataBase">
+              <a href="https://github.com/yourspraveeninfo/College_DataBase">
                 View in GitHub
               </a>
             </p>
