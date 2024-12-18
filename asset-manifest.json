@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/My-Portfolio/static/css/main.33386989.css",
-    "main.js": "/My-Portfolio/static/js/main.ea517a67.js",
+    "main.js": "/My-Portfolio/static/js/main.6c535ccd.js",
+    "static/media/Amazon.jpg": "/My-Portfolio/static/media/Amazon.622ef518036a0afcc2bf.jpg",
     "static/media/about-me.png": "/My-Portfolio/static/media/about-me.faf83edffbe3660f1a1d.png",
     "static/media/Praveen_resume.pdf": "/My-Portfolio/static/media/Praveen_resume.1f6201187018b092d32d.pdf",
     "static/media/logo.svg": "/My-Portfolio/static/media/logo.e54477106ef45ecb4ae83cd1ad91ed08.svg",
     "static/media/hero_img.png": "/My-Portfolio/static/media/hero_img.0f165e8101c7e191dc15.png",
     "static/media/cdb.png": "/My-Portfolio/static/media/cdb.b3eef073dc77a17beb34.png",
-    "static/media/Amazon.jpg": "/My-Portfolio/static/media/Amazon.70d4a2c6255e71e7c37a.jpg",
     "static/media/Bus-Booking.png": "/My-Portfolio/static/media/Bus-Booking.3a526f1576aa453d3b85.png",
     "static/media/banksystem.png": "/My-Portfolio/static/media/banksystem.88f65f84473a74a74c90.png",
     "static/media/Cisco.jpg": "/My-Portfolio/static/media/Cisco.7803fb39311a96497c31.jpg",
@@ -17,10 +17,10 @@
     "index.html": "/My-Portfolio/index.html",
     "static/media/linkedin.svg": "/My-Portfolio/static/media/linkedin.c341cc1c307221b0fe42599c619ceeaf.svg",
     "main.33386989.css.map": "/My-Portfolio/static/css/main.33386989.css.map",
-    "main.ea517a67.js.map": "/My-Portfolio/static/js/main.ea517a67.js.map"
+    "main.6c535ccd.js.map": "/My-Portfolio/static/js/main.6c535ccd.js.map"
   },
   "entrypoints": [
     "static/css/main.33386989.css",
-    "static/js/main.ea517a67.js"
+    "static/js/main.6c535ccd.js"
   ]
 }
