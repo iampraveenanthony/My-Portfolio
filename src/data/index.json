@@ -32,24 +32,24 @@
       "src": "/img/Bus-Booking.png",
       "title": "Bus Booking System",
       "description": "The program is a bus booking system that allows users to register, log in, view available buses, and book tickets. Users provide their personal details for registration and login. The system displays available bus routes and details, allowing users to select a bus and proceed with booking by confirming the date of the journey and ticket details.",
-      "link": "https://github.com/yourspraveeninfo/Bus_Booking_System",
-      "view": "https://github.com/yourspraveeninfo/Bus_Booking_System"
+      "link": "https://github.com/yourspraveeninfo/Bus_Booking_System/blob/main/main.py",
+      "view": "https://github.com/yourspraveeninfo/Bus_Booking_System/blob/main/main.py"
     },
     {
       "id": "2",
       "src": "/img/banksystem.png",
       "title": "Banking System",
       "description": "This Python program simulates a simple banking system that allows users to perform basic transactions. Users can show their current balance, deposit money, withdraw money, or exit the program. The program includes input validation for negative amounts and insufficient balance during withdrawals.",
-      "link": "https://github.com/yourspraveeninfo/Banking_System",
-      "view": "https://github.com/yourspraveeninfo/Banking_System"
+      "link": "https://github.com/yourspraveeninfo/Banking_System/blob/main/main.py",
+      "view": "https://github.com/yourspraveeninfo/Banking_System/blob/main/main.py"
     },
     {
       "id": "3",
       "src": "../img/cdb.png",
       "title": "College Database",
       "description": "The college database consists of tables for student details, college bus details, and student mark statements, all managed using MySQL. It utilizes SQL features such as grouping and joins to efficiently retrieve and aggregate data across these related tables. This structure supports comprehensive queries for generating reports.",
-      "link": "https://github.com/yourspraveeninfo/College_DataBase",
-      "view": "https://github.com/yourspraveeninfo/College_DataBase"
+      "link": "https://github.com/yourspraveeninfo/College_DataBase/blob/main/CDBMS.sql",
+      "view": "https://github.com/yourspraveeninfo/College_DataBase/blob/main/CDBMS.sql"
     }
   ],
 

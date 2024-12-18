@@ -11,7 +11,7 @@ function Footer() {
       <div className="footer--link--container">
         <div className="footer--link--container--img">
           <a href="#">
-            <img src={logo} alt="Logoipsum" />
+            <img src={logo} alt="My Logo" />
           </a>
         </div>
         <div className="footer--items">
@@ -120,7 +120,7 @@ function Footer() {
       </div>
       <hr className="divider" />
       <div className="footer--content--container">
-        <p className="footer--content">All rights reserved © 2024 .</p>
+        <p className="footer--content">All rights reserved © 2024</p>
         <div className="footer--social--icon">
           <ul>
             <li>
